@@ -1,5 +1,8 @@
 package com.src.git;
 
 public class ClassD {
-	//asdasdasdasdsad
+	private void mai() {
+		// TODO Auto-generated method stub
+
+	}
 }
