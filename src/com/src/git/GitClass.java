@@ -7,6 +7,7 @@ public class GitClass {
 	}
 	
 	public static void main(String[] args) {
+		ClassC classC = new ClassC();
 		// TODO Auto-generated method stub
 		//hello all
 		//hello 
