@@ -8,6 +8,8 @@ public class GitClass {
 	
 	public static void main(String[] args) {
 		ClassC classC = new ClassC();
+		ClassC classC1 = new ClassC();
+		//commit 1
 		// TODO Auto-generated method stub
 		//hello all
 		//hello 
