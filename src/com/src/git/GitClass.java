@@ -14,6 +14,8 @@ public class GitClass {
 		//commit 3
 		//commit 4
 		//commit 5
+		//commit 7
+		///coomiut 8
 		// TODO Auto-generated method stub
 		//hello all
 		//hello 
