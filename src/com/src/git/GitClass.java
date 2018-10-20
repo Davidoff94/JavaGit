@@ -10,6 +10,7 @@ public class GitClass {
 		ClassC classC = new ClassC();
 		ClassC classC1 = new ClassC();
 		//commit 1
+		//commi 2
 		// TODO Auto-generated method stub
 		//hello all
 		//hello 
