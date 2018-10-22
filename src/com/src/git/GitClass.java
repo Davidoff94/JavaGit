@@ -7,7 +7,17 @@ public class GitClass {
 	}
 	
 	public static void main(String[] args) {
-		
+
+		//blalblalsdlasldalsdlasldasldl
+				/*asd,as
+				dasdas
+				das
+				d
+				sad
+				sa
+				das
+				dsa
+				d*/
 	}
 
 }
